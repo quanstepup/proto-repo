@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>proto-common</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -19,7 +19,7 @@
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
         <url>git@${project.scm.id}:quanstepup/proto-repo.git</url>
-        <tag>1.0</tag>
+        <tag>1.0.1</tag>
     </scm>
 
     <dependencies>
